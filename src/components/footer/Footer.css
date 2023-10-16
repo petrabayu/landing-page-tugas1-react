@@ -1,0 +1,14 @@
+/* CSS PART FOR BOTTOM SECTION (FOOTER SECTION) */
+.bottom {
+  padding: 12px;
+  text-align: center;
+}
+
+.footer-logo {
+  vertical-align: middle;
+  width: 10%;
+  filter: grayscale(100%);
+}
+.footer-logo:hover {
+  filter: none;
+}
